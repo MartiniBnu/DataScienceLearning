@@ -1,0 +1,3 @@
+# Data Science Learning
+This repository is where I will concentrate the exercises for the Data Science Udemy course
+...
