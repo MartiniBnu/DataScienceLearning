@@ -20,4 +20,4 @@ print("Your average grade is: " + str(avg))
 if avg >= mininumGrade:
     print("You've passed in the semester!")
 else:
-    print("You're fucked man!!!")
+    print("You're fucked man!!! We'll see you again on the next semester!")
